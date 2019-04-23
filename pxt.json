@@ -1,0 +1,17 @@
+{
+    "name": "OK_Sensor",
+    "version": "0.0.2",
+    "description": "A MakeCode package for Sensor and OLED",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "OK_Sensor.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
